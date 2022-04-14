@@ -1,0 +1,19 @@
+.navigation{
+    display: flex;
+    float: right;
+    justify-content: space-between;
+    position: relative;
+
+}
+.tableau{
+    display:flex;
+
+}
+.footer{
+    display: flex;
+    font-size: 12px;
+}
+.homebg{
+    background-image: url(https://cdn.pixabay.com/photo/2019/03/28/10/19/sunset-4086848_960_720.jpg);
+     background-position:center; background-size: cover;
+}
